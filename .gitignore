@@ -1,0 +1,19 @@
+# Keep all original manuscript files and administrative records out of the public repository.
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+*.tex
+private/
+confidential/
+originals/
+working-manuscript/
+correspondence/
+student-records/
+answer-books/
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.pyc
